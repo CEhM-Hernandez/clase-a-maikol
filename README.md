@@ -1,2 +1,3 @@
 ## esta es una clase para maikol de como iniciar un proyecto...
 ## yo le se mucho
+## esta linea es mía, de eduardo. perra
